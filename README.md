@@ -1,4 +1,4 @@
-# GraphRAG with Neo4j
+# GraphRAG with Neo4j on local Ollama
 
 A powerful implementation of Retrieval-Augmented Generation (RAG) using Neo4j graph database and local LLM models through Ollama. This project combines vector search, graph-based retrieval, and hybrid approaches to enhance question-answering capabilities.
 
