@@ -3,7 +3,7 @@ import os
 from langchain_community.document_loaders import DirectoryLoader, PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_neo4j import Neo4jGraph
-from ollama_local import llm,embedding_provider
+from graph_rag.ollama_local import llm, embedding_provider
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_community.graphs.graph_document import Node, Relationship
 
